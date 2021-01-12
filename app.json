@@ -4,7 +4,7 @@
     "productivity"
   ],
   "website": "https://www.trot.to",
-  "repository": "https://github.com/trotto/go-links",
+  "repository": "https://github.com/LambdaSchoolEngineering/go-links",
   "logo": "https://www.trot.to/img/logos/trotto.svg",
   "env": {
     "FLASK_SECRET": {
@@ -17,7 +17,7 @@
   "formation": {
     "web": {
       "quantity": 1,
-      "size": "hobby"
+      "size": "standard-1x"
     }
   },
   "addons": [
