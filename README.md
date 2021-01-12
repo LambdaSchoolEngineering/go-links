@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/trotto/go-links.svg?style=svg)](https://circleci.com/gh/trotto/go-links)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/trotto/go-links)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LambdaSchoolEngineering/go-links)
 
 _(See the guide [here](https://www.trot.to/docs/deploy/deploy-to-heroku) to deploy to Heroku in minutes.)_
 
