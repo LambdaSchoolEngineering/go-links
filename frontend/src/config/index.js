@@ -4,30 +4,29 @@ const CUSTOM_CONFIG = window._trotto.layout;
 
 const DEFAULT_CONFIG = {
   palette: {
-    primary: '#f27e8f',
-    secondary: '#7e8ff2',
-    success: '#4f8a10',
-    error: '#ff0033'
+    primary: '#EC3944',
+    secondary: '#4571C9',
+    success: '#27C497',
+    error: '#BC1A23'
   },
   page: {
-    title: 'Trotto Go Links',
+    title: 'Lambda Go Links',
     favicon: '/favicon.ico'
   },
   header: {
-    title: 'Trotto',
+    title: 'Go Links',
     logo: {
-      url: '/_images/snout.png',
+      url: '/_images/lambda.png',
       css: {
         height: '1.6em'
       }
     },
     links: [
       'directory',
-      'howItWorks'
     ]
   },
   footer: {
-    showSourceLink: true,
+    showSourceLink: false,
     links: []
   }
 };
@@ -36,11 +35,6 @@ const DEFAULT_NAV_ITEMS = {
   directory: {
     text: 'Directory',
     url: '#/directory'
-  },
-  howItWorks: {
-    text: 'How It Works',
-    url: 'https://www.trot.to/how-it-works',
-    openInNewTab: true
   }
 };
 
