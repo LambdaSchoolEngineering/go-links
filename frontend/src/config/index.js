@@ -11,7 +11,7 @@ const DEFAULT_CONFIG = {
   },
   page: {
     title: 'Lambda Go Links',
-    favicon: '/favicon.ico'
+    favicon: '/_images/favicon.ico'
   },
   header: {
     title: 'Go Links',
