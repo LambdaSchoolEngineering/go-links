@@ -5,3 +5,4 @@ client_secrets.json
 config/*
 !config/schema.json
 !config/schema/
+!config/app.yml
